@@ -18,7 +18,7 @@ class HomeScreen extends StatelessWidget {
           icon: Image.asset("assets/icons/menuicon.png"),
           onPressed: (){},
       ),
+      );
 
-    );
   }
 }
